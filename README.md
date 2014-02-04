@@ -1,4 +1,5 @@
-hypernumbers-installation-guide
-===============================
+===================================
+The Hypernumbers Installation Guide
+===================================
 
-hypernumbers-installation-guide
+Installing your Hypernumbers servers
